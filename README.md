@@ -1,6 +1,6 @@
 # Sturt Ison
 
-**Enabling effective teams to design and implement production systems** | Helsinki, Finland 🇫🇮
+**Optimist | Communicator | AI | Wing foiling enthusiast** | Helsinki, Finland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sturtison-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sturtison/)
 [![GitHub](https://img.shields.io/badge/GitHub-sturtison-181717?style=flat&logo=github)](https://github.com/sturtison)
@@ -10,7 +10,9 @@
 
 ## What I Do
 
-I help teams cut through complexity — turning overwhelming data into clear, actionable intelligence and getting production systems that actually work into the hands of the people who need them.
+**Enable effective teams to design and implement production systems**
+
+I help business cut through complexity — turning overwhelming data into clear, actionable intelligence and getting production systems that actually work into the hands of the people who need them.
 
 Having covered software development, cybersecurity, intelligence analysis, and data platforms, I bring deep technical breadth and an instinct for what makes teams effective. As a Finnish Australian who calls **Helsinki** home, I care about doing things properly: requirements, design,  
 communication, documentation, clean architecture, delivering results.
@@ -50,19 +52,6 @@ communication, documentation, clean architecture, delivering results.
 
 ---
 
-## Featured Projects
-
-### 📝 [jekyll-asciidoc-quickstart](https://github.com/sturtison/jekyll-asciidoc-quickstart)
-A practical quickstart for publishing AsciiDoc content via Jekyll and GitHub Pages — bridging the gap while Antora-based pipelines take shape. Includes CI/CD via TravisCI so a commit triggers an automatic publish. Useful for teams who want docs-as-code without a complex setup.
-
-### 🎨 [tufte-css](https://github.com/sturtison/tufte-css)
-*Forked from [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)* — bringing Edward Tufte's elegant, typography-first design principles to the web. Because clarity in presentation matters as much as clarity in thinking.
-
-### 🌐 Starred: [yuzutech/kroki](https://github.com/yuzutech/kroki)
-A diagram-as-code server supporting PlantUML, Mermaid, Graphviz, Structurizr and more. A cornerstone tool for any docs-as-code workflow.
-
----
-
 ## Writing
 
 **[Tracing Bitcoin Using Technology & Law](https://www.linkedin.com/pulse/tracing-bitcoin-using-technology-law-sturt-ison)** — How AML techniques and blockchain analysis converge to follow the money, even without knowing who's behind a wallet.
@@ -77,6 +66,6 @@ A diagram-as-code server supporting PlantUML, Mermaid, Graphviz, Structurizr and
 
 ## Let's Connect
 
-I'm open to conversations about cybersecurity, intelligence-led operations, docs-as-code, and enabling high-performing teams.
+I'm open to conversations about AI, cybersecurity, supporting intelligence-led operations with link analysis, documentation as code, and enabling high-performing teams.
 
 💼 [LinkedIn](https://www.linkedin.com/in/sturtison/) · 🐙 [GitHub](https://github.com/sturtison) · 🦊 [GitLab](https://gitlab.com/sturtison)
