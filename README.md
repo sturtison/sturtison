@@ -12,7 +12,8 @@
 
 I help teams cut through complexity — turning overwhelming data into clear, actionable intelligence and getting production systems that actually work into the hands of the people who need them.
 
-After **28 years at IBM**, spanning cybersecurity, intelligence analysis, and data platforms, I bring deep technical breadth and an instinct for what makes teams effective. I'm an Australian who's called **Helsinki** home, and I care about doing things properly: good documentation, clean architecture, and solutions built to last.
+Having covered software development, cybersecurity, intelligence analysis, and data platforms, I bring deep technical breadth and an instinct for what makes teams effective. As a Finnish Australian who calls **Helsinki** home, I care about doing things properly: requirements, design,  
+communication, documentation, clean architecture, delivering results.
 
 > *"Never pass up a chance to automate and share the benefits."*
 
@@ -20,11 +21,11 @@ After **28 years at IBM**, spanning cybersecurity, intelligence analysis, and da
 
 ## Where I Add Value
 
-**Team Enablement & System Design** — I work best when I'm helping teams go from "we know what we want" to "we have a production system that delivers it." That means bridging strategy and implementation, removing blockers, and building shared understanding across technical and non-technical stakeholders.
+**Team Enablement & System Design** — I work best when I'm helping teams go from "we think we know what they want" to "we have a production system that delivers it." That means bridging strategy and implementation, removing blockers, and building a shared understanding across technical and non-technical stakeholders.
 
 **Cybersecurity & Intelligence Analysis** — Deep hands-on experience with SIEM, SOAR, and intelligence platforms. I've helped organisations move from reactive alert-chasing to proactive, intelligence-led security operations.
 
-**Docs as Code & Diagrams as Code** — I believe great documentation is as important as great code. I use AsciiDoc, Antora, Jekyll, Kroki and friends to make knowledge durable, searchable, and maintainable.
+**Docs as Code & Diagrams as Code** — I believe great documentation is as important as great code. I've specified and implemented systems using Markdown, AsciiDoc, Antora, Jekyll, and Kroki, to make knowledge acessible, durable, searchable, and maintainable.
 
 ---
 
